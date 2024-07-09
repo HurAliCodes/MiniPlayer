@@ -95,6 +95,18 @@ const songs = [
         displayName: 'O Maahi',
         cover: 'assets/16.jpeg',
         artist: 'Arjeet Singh'
+    },
+    {
+        path: 'assets/17.mp3',
+        displayName: 'Bella Ciao',
+        cover: 'assets/17.jpeg',
+        artist: 'Money Heist'
+    },
+    {
+        path: 'assets/18.mp3',
+        displayName: 'Tera Fitoor',
+        cover: 'assets/18.jpeg',
+        artist: 'Arjeet Singh'
     }
     
 ];
